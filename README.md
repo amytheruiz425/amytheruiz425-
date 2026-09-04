@@ -1,4 +1,4 @@
-# Amy | Legacy Systems Explorer
+ | Legacy Systems Explorer
 
 **Prototype Developer | Builder of Gildra Technologies**
 
